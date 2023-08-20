@@ -5,7 +5,7 @@
   grid-template-areas:
     "img_big description"
     "img_small description";
-  gap: 10px;
+  gap: 10px 20px;
   margin-top: 25px;
   margin-left:180px
 }
@@ -19,4 +19,10 @@
   width: 20rem;
   height: 20rem;
   grid-area: img_big;
+}
+
+
+.main_container_description{
+
+    grid-area: description;
 }

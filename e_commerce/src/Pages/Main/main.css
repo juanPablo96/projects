@@ -25,4 +25,25 @@
 .main_container_description{
 
     grid-area: description;
+    
 }
+
+.main_container_description__input{
+    width: 40px;
+    height: 30px;
+    border: 2px solid  #f9f1eb;
+    text-align: center;
+}
+
+.main_container_description__button{
+
+
+    background-color: #f9f1eb;
+    width: 30px;
+    height: 30px;
+    border: none;
+    
+    
+}
+
+

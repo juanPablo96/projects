@@ -34,7 +34,7 @@ function Main() {
           description="These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand eveything the weather can offer."
           newPrice="$125.00"
           discount="50%"
-          price="250.00"
+          price="$250.00"
 
         />
         <button className="main_container_description__button"><img src={minus} alt="" /></button>

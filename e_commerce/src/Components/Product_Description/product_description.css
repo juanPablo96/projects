@@ -1,0 +1,19 @@
+.description_title_company{
+    font-size: 12px;
+    color: #ff7d1a;
+}
+
+.description_dicount b{
+    width: 15px;
+    padding: 0 3px 0 3px;
+    margin-left: 5px;
+    font-size: 11px;
+    color: #ff7d1a;
+    background-color:#ffede0 ;
+}
+
+.description_old_price{
+    text-decoration: line-through;
+    color: #9a9898;
+
+}

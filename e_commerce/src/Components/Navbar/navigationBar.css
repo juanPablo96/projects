@@ -2,9 +2,19 @@
 
     max-width:100px;
     margin-top: -8px;
+    margin-left: 120px ;
 }
 
 .nav_links{
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 700;
+}
+
+.navbar_user{
+    width: 50px;
+    margin-left: 30px;
+    margin-right: 100px;
+    border-radius: 25px;
+    padding: 5px;
+    cursor: pointer;
 }
